@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+acta_custodia.*
+*.tsr
+.DS_Store

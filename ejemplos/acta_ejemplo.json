@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "caso": "EXP-2026-014 (ejemplo ilustrativo)",
+    "examinador": "Nieves Casquero",
+    "generado_utc": "2026-08-30T09:25:41.274555+00:00",
+    "hostname": "vm",
+    "sistema": "Linux 6.18.44-fc-v22"
+  },
+  "evidencia": [
+    {
+      "ruta": "ejemplos/evidencia_demo/correo_sospechoso.eml",
+      "tamano_bytes": 91,
+      "modificado_utc": "2026-08-30T09:25:41.235201+00:00",
+      "hashes": {
+        "sha256": "26c59feb99c412130079feac742aeef8057fe5a1587339c6a239401d214cf535",
+        "sha1": "891225bd5e9cb2bd0c990c018b4e7031e7607178",
+        "md5": "0ea5b2322e5e01cdf8e85d3754fcc5ee"
+      }
+    },
+    {
+      "ruta": "ejemplos/evidencia_demo/log_acceso.txt",
+      "tamano_bytes": 79,
+      "modificado_utc": "2026-08-30T09:25:41.235201+00:00",
+      "hashes": {
+        "sha256": "013ccb2efb0c6794d164eb7aa09031d667b2732842320e7adcf258188cee9a59",
+        "sha1": "356baec536a1c8c7217a591c6eaa5f6579078358",
+        "md5": "6eb972f5aa841a81e0560acba2d25b6a"
+      }
+    }
+  ],
+  "hash_manifiesto_sha256": "ff05e88bab6c896d62f91a1a62fb3fb3aee97822dfdbff1021a583180d962df8",
+  "sello_tiempo": {}
+}
